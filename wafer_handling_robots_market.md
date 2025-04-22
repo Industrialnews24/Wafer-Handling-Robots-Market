@@ -124,13 +124,6 @@ Asia Pacific leads with 50.3% share.
 6. **What benefits does the report offer?**  
 Actionable insights on sizing, tech roadmaps, competitors, and investment opportunities.
 
-## Explore More Research from TMR
-
-- [Load Cell Market](https://www.transparencymarketresearch.com/load-cells-market.html)
-- [Metal X-Ray Mirror Lens Market](https://www.transparencymarketresearch.com/metal-x-ray-mirror-lens-market.html)
-- [Transformer Market](https://www.transparencymarketresearch.com/transformer-market-report.html)
-- [Printed Circuit Board Market for EVs](https://www.transparencymarketresearch.com/printed-circuit-board-market-for-electric-vehicles.html)
-
 ## About Transparency Market Research
 
 Transparency Market Research is a leading global research firm headquartered in Wilmington, Delaware. With proprietary data and industry expertise, TMR provides actionable insights to global clients. Our continuously updated database and robust methodology empower informed business decision-making.
